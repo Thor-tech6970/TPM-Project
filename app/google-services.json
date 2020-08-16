@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135489216766",
+    "firebase_url": "https://tpm-project-c5392.firebaseio.com",
+    "project_id": "tpm-project-c5392",
+    "storage_bucket": "tpm-project-c5392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135489216766:android:1069cac7f733311fee45af",
+        "android_client_info": {
+          "package_name": "com.example.tpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135489216766-s3glk1n8aabpn4b9gbll12eh8ommrv89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyIFqpdzOYEibe8FqN_L_uifr4RR983A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135489216766-s3glk1n8aabpn4b9gbll12eh8ommrv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
